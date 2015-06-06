@@ -1,6 +1,6 @@
-## Here's my Header
+## Repository for DAT7 Coursework
 
-* bullet 1
+* homework - files for homework submission
 * bullet 2
 
 This is *italics* and **bold**
