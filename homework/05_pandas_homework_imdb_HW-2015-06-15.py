@@ -129,9 +129,8 @@ movies[(movies.content_rating == 'UNRATED') & (movies.star_rating == 8.9)].loc[:
 movies[movies.title.duplicated()] # shows suspected duplicate titles
 # The Girl with the Dragon Tatooo, Dracula, Les Miserables, True Grit
 # Although titles are identicals, not actual duplicates, represent remakes, can tell easily tell from actors, year if available would probably also be a good indicator
-movies[movies.title.isin(['The Girl with the Dragon Tattoo', 'Dracula', 'True Grit'])] 
-# ^ pulls suspected dupes and confirms not actual duplicates for 3 of 4 suspected dupes
-# Les Mis confirmed by looking at text editor data and searching for string 'Les '
+movies[movies.title.isin(['The Girl with the Dragon Tattoo', 'Dracula', 'True Grit', 'Les Miserables'])] 
+# ^ pulls suspected dupes and confirms not actual duplicates, different actors and star ratings
 # Ask about text editor used by Kevin in class
 
 # calculate the average star rating for each genre, but only include genres with at least 10 movies
