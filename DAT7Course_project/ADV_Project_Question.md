@@ -16,5 +16,5 @@ Using [methodology] (https://github.com/StormShadow/Scorpion/blob/master/DAT7Cou
 *DATA Sources*
 
 * Training Data Hand labled data** firms identified as engaging in misleading advertising of products and services, thus likely to give conflicted advice.  [DATA SOURCE CONFIDENTIAL will not be shared, essentially I will take the rows from ADV part 1, from source below and hand labeling them based on the findings]
-* SEC Form ADV Part 1** publicly available data from SEC filtered and used to narrow sample size for training data availale [here](http://www.sec.gov/foia/docs/invafoia.htm)
-* SEC Form ADV Part 2** individul forms available for download, however inquiring to availability of a bulk download of part 2 brochures for 11,000 plus RIA firms
+* SEC Form ADV Part 1 publicly available data from SEC filtered and used to narrow sample size for training data availale [here](http://www.sec.gov/foia/docs/invafoia.htm)
+* SEC Form ADV Part 2 individul forms available for download, however inquiring to availability of a bulk download of part 2 brochures for 11,000 plus RIA firms
