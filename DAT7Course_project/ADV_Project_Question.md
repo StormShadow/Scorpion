@@ -4,7 +4,7 @@ Using [methodology] (https://github.com/StormShadow/Scorpion/blob/master/DAT7Cou
 
 [Project Outline](https://github.com/StormShadow/Scorpion/blob/master/DAT7Course_project/Form%20ADV%20Project%20Outline.pdf)
 
-*Project Question: Can you predict the likelihood of receiving conflicted advice by looking at form ADV data?*
+**Project Question: Can you predict the likelihood of receiving conflicted advice by looking at form ADV data?**
 
 *Brief background on SEC Form ADV and conflicted advice*
 
